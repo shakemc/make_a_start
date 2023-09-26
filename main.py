@@ -5,6 +5,7 @@ col1, col2 = st.columns(2)
 with col1:
     st.image("")
 
+
 with col2:
     st.title("Stanislav Radyk")
     content = """Highly motivated and dedicated professional with a deep passion for cloud computing, 
